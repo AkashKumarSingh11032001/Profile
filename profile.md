@@ -31,7 +31,6 @@
 </p>
 </div>
 <hr>
-<br><br>
 
 <!-- Tools Which I am Using -->
 <div align="center">
