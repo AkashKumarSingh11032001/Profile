@@ -46,13 +46,13 @@
   
 
   <!-- Dark theam -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/></p>
 
   <br>
 
   <!-- Github Stats -->
   
-  <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi"/></p>
+  <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
 
 
   <br>
