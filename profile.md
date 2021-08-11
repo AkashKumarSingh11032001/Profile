@@ -49,7 +49,7 @@
 <!-- Most Using Language -->
 <div>
 <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
 	</p>
 </div>
 
@@ -58,7 +58,7 @@
 <!-- Github Stats -->
 <div align="centre">
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
 	</p>
 </div>
   
@@ -67,7 +67,7 @@
 <!-- Github Streaks -->
 <div align="centre">
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akash" height="192px"/></a>
 	</p>
 </div>
 
