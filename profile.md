@@ -45,27 +45,30 @@
 
 <br><br><br><br><br>
 
-<div align="centre">
-  <!-- Most Using Language -->
-  <p align="centre">
-  <a href="https://github.com/Candida18" ><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="500" />
-  </a>
-  </p>
+
+<!-- Most Using Language -->
+<div>
+<p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
+	</p>
 </div>
 
 <br>
 
+<!-- Github Stats -->
 <div align="centre">
-  <!-- Github Stats -->
-  <p><img src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="500" /></p>
+  <p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
+	</p>
 </div>
   
 <br>
 
+<!-- Github Streaks -->
 <div align="centre">
-  <!-- Github Streaks -->
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akashkumarsingh11032001" />
-  </p>
+  <p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akash" height="192px"/></a>
+	</p>
 </div>
 
 
