@@ -34,6 +34,11 @@
 
 
 <br><br>
+
+<div align="center">
+    <img src="F:\Readme MakeOver\ex.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 <style>
 * {
   box-sizing: border-box;
