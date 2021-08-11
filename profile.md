@@ -3,12 +3,13 @@
 <h3 align="center">A passionate Machine Learning & frontend developer from India</h3>
 
 
-
+<!-- typing style -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aleo&color=10D2D0FF&size=28&center=true&width=900&height=200&lines=Hey+there!+;My+Name+is+Akash+Kumar+Singh.;I'm+a+Mathematics+%26+Computer+Science+Major;at+Lovely+Professional+University+at+Punjab+in+India.;I've+been+teaching+myself+how+to+code+for+4+years!;I+am+fluent+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+HTML+%26+CSS.;I've+created+apps%2C+websites%2C+and+design+using+what+I've+learned.;You+can+even+find+the+Processing+source+code+for+this+below!;Feel+free+to+reach+out+to+say+hi!%22)]"></a>
 </p>
 
 
+<!-- buttons -->
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
@@ -19,7 +20,7 @@
 
 <!-- Connect With Me -->
 <h3 align="centre">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/akashkumarsingh11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkumarsingh11032001" height="30" width="40" /></a>
 <a href="https://kaggle.com/akash11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash11032001" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_ineffable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_ineffable" height="30" width="40" /></a>
