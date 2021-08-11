@@ -43,7 +43,6 @@
       Ask me anything you want, and I'll do my best to answer within seconds.<br>
       I'm an introvert, so no talking, just coding.<br>
       Learning something new regularly.<br>
-    
   </div>
 </div>
 
