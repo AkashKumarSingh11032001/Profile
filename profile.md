@@ -37,7 +37,7 @@
 
 <!-- About me -->
 <div class="row" align="center">
-  <h2>About me</h2>
+  <h3>About me</h3>
   <div class="column">
       I know a number of programming languages and am passionate about exploring different frameworks.<br>
       Ask me anything you want, and I'll do my best to answer within seconds.<br>
