@@ -40,6 +40,7 @@
 
 <br><br><br><br><br>
 
+<div align="centre">
 <!-- Most Using Language -->
 
 <!-- Light theam -->
@@ -60,6 +61,7 @@
 <!-- Github Streaks -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akashkumarsingh11032001" /></p>
 
+</div>
 <br><br><br>
 
 <!-- Activity Graph -->
