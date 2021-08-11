@@ -33,7 +33,7 @@
 <hr>
 
 
-
+<!-- About me -->
 
 
 
@@ -47,7 +47,7 @@
 
 
 <!-- Most Using Language -->
-<div>
+<div align="centre">
 <p align="center">
     <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
 	</p>
