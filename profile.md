@@ -87,3 +87,7 @@
 <!-- Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkashKumarSingh11032001&bg_color=000000&color=51BAFF&line=83f71c&point=EE0E0E&area=true&hide_border=true) 
 
+<p align="right"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/AkashKumarSingh11032001/count.svg" />
+</p>
