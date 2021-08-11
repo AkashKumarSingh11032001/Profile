@@ -64,7 +64,7 @@
 
 <br>
 
-
+<hr><br><br><br>
 <!-- Most Using Language && Github Stats --> 
 <div align="centre">
 &nbsp;&nbsp;&nbsp;<a href="https://github.com/AkashKumarSingh11032001"><img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
@@ -87,7 +87,7 @@
 <!-- Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkashKumarSingh11032001&bg_color=000000&color=51BAFF&line=83f71c&point=EE0E0E&area=true&hide_border=true) 
 
-<p align="right"> 
+<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/AkashKumarSingh11032001/count.svg" />
 </p>
