@@ -19,8 +19,9 @@
 <hr>
 
 <!-- Connect With Me -->
-<h3 align="centre">Connect with me:</h3>
+
 <p align="centre">
+<h3 >Connect with me:</h3>
 <a href="https://linkedin.com/in/akashkumarsingh11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkumarsingh11032001" height="30" width="40" /></a>
 <a href="https://kaggle.com/akash11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash11032001" height="30" width="40" /></a>
 <a href="https://instagram.com/akash_ineffable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_ineffable" height="30" width="40" /></a>
