@@ -45,6 +45,15 @@
       Ask me anything you want, and I'll do my best to answer within seconds.<br>
       I'm an introvert, so no talking, just coding.<br>
       Learning something new regularly.<br>
+      <br>
+      <p align="centre">
+          <a href="https://linkedin.com/in/akashkumarsingh11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkumarsingh11032001" height="30" width="40" /></a>
+          <a href="https://kaggle.com/akash11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash11032001" height="30" width="40" /></a>
+          <a href="https://instagram.com/akash_ineffable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_ineffable" height="30" width="40" /></a>
+          <a href="https://medium.com/akashkumarsingh11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akashkumarsingh11032001" height="30" width="40" /></a>
+          <a href="https://www.codechef.com/users/akash11032001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash11032001" height="30" width="40" /></a>
+          <a href="https://auth.geeksforgeeks.org/user/akash_kumar_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akash_kumar_singh" height="30" width="40" /></a>
+        </p>
   </div>
 </div>
 
