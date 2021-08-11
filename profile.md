@@ -46,23 +46,33 @@
 <br><br><br><br><br>
 
 
-<!-- Most Using Language -->
-<div align="centre">
-<p align="center">
-    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
-	</p>
-</div>
-
-<br>
-
 <!-- Github Stats -->
-<div align="centre">
+  <!-- <div align="centre">
+    <p align="center">
+      <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
+    </p>
+  </div>
+
+  <br> -->
+
+<!-- Most Using Language -->
+  <!-- <div align="centre">
   <p align="center">
-    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
-	</p>
-</div>
-  
+      <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
+    </p>
+  </div> -->
+
 <br>
+
+
+<!-- Most Using Language && Github Stats --> 
+<div align="centre">
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/AkashKumarSingh11032001"><img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
+</div>
+
+<br>
+
 
 <!-- Github Streaks -->
 <div align="centre">
@@ -72,7 +82,7 @@
 </div>
 
 
-<br><br><br>
+<br><br><br><hr>
 
 <!-- Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkashKumarSingh11032001&bg_color=000000&color=51BAFF&line=83f71c&point=EE0E0E&area=true&hide_border=true) 
