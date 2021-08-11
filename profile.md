@@ -42,27 +42,25 @@
 
 <div align="centre">
   <!-- Most Using Language -->
-
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="500" /></p>
   
+</div>
 
-  <!-- Dark theam -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/></p>
+<br>
 
-  <br>
-
+<div align="centre">
   <!-- Github Stats -->
-  
-  <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+  <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="500" /></p>
 
-
+</div>
   <br>
 
+<div align="centre">
   <!-- Github Streaks -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akashkumarsingh11032001" />
   </p>
 </div>
-
-
+</div>
 <br><br><br>
 
 <!-- Activity Graph -->
