@@ -35,55 +35,19 @@
 
 <br><br>
 
-<div align="center">
-    <img src="F:\Readme MakeOver\ex.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-<!-- /* Create two equal columns that floats next to each other */ -->
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
- /* Should be removed. Only for demonstration */
-}
-
-<!-- /* Clear floats after the columns */ -->
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
 <!-- About me -->
-<div class="row" align = "center">
+<div class="row" align="center">
   <div class="column">
-  <h2>About me</h2>
-    🔭 I know a handfull of programming languages and am a hobbyist in electronics and Arduino projects.<br>
-    🔭 I’m currently working on a handfull projects of which Asteroid is one.<br>
-    🌱 I’m currently learning java.<br>
-    💬 Ask me about anything i will try my best to help you out!!<br>
-    💗 I love forking usefull repositories<br>
+      <h2>About me</h2>
+      I know a number of programming languages and am passionate about exploring different frameworks.<br>
+      Ask me anything you want, and I'll do my best to answer within seconds.<br>
+      I'm an introvert, so no talking, just coding.<br>
+      Learning something new regularly.<br>
+    
   </div>
-  <div class="column">
-    <h2>Column 1</h2>
-    <p>
-    🎮 Gaming<br>
-    🖥️ Programming<br>
-    🕵️ Hacking<br>
-    🎞️ Movies<br>
-    🎶 Songs<br>
-    💤 Sleeping<br>
-    🏀 Outdoor Games (Basketball, Badminton, Football, Volleyball)<br></p>
-  </div>
-
 </div>
 
-<br><br>
+<hr><br><br>
 
 <!-- Tools Which I am Using -->
 <div align="center">
